@@ -14,7 +14,7 @@ For updates on what I'm currently working on, check out my [Twitter](https://twi
 ### My WakaTime Stats:
 <!--START_SECTION:waka-->
 
-```Haskell
+```lean4
 From: 29 February 2024 - To: 31 October 2026
 
 Total Time: 4,620 hrs 5 mins
